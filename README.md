@@ -2,7 +2,7 @@
 
 > Status do projeto: Em desenvolvimento
 
-Para rodar esse projeto na sua máquina, por favor digite:
+Projeto referente ao curso "Git e GitHub: repositório, commit e versões" da Alura.
 
 ```
 node app.js
